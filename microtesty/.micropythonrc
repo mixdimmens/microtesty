@@ -1,0 +1,22 @@
+{
+  "upload": {
+    "port": "/dev/tty.lpss-serial1",
+    "baud": 9600
+  },
+  "serial": {
+    "port": "/dev/tty.lpss-serial1",
+    "baud": 9600
+  },
+  "ignore": {
+    "extensions": [
+      ".micropythonrc"
+    ],
+    "directories": [
+      ".vscode"
+    ]
+  },
+  "tools": {
+    "ampy": "",
+    "rshell": ""
+  }
+}
