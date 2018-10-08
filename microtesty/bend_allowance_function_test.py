@@ -1,6 +1,5 @@
 import math
 
-
 k_factor={
    'steel': [ .40, .45, .50],
    'aluminum_soft': [ .33, .40, .50],
